@@ -1,9 +1,9 @@
-title:              Clean Blog
+title:              Kesh Pokhun
 email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+description:        Data Science, Productivity, General
+author:             Kesh Pokhun
+baseurl:            ""
+url:                "https://KeshP.github.io"
 
 # Social Profiles
 twitter_username:   SBootstrap
